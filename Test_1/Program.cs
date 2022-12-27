@@ -11,7 +11,7 @@ Console.WriteLine();
 
 string[] array2 = new string[array1.Length];
 SortArray(array1, array2);
-Console.Write("Ваш новый массив из эл. длинной не более 3 символов: ");
+Console.Write("Ваш новый Массив из эл. длинной не более 3 символов: ");
 PrintArray(array2);
 
 string[] FillArray()
